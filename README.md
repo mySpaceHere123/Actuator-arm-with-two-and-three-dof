@@ -1,1 +1,2 @@
 # Actuator-arm-with-two-and-three-dof
+Robotic arms are usually controlled by two or more motors. These motors move in a coordinated manner so as to perform specific task in 3-D space. Forward Kinematics and inverse Kinematics are two mathematical tools to relate between the rotation of motors and the desired or given coordinates. Here, in this work, Inverse kinematics have been implemented for both two and three degree of freedom.
